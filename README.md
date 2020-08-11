@@ -17,4 +17,10 @@ For more information on Git, see the
 [official Git documentation](https://git-scm.com/).
 =======
 with programmers and other users of Git.
+<<<<<<< HEAD
 >>>>>>> 460599afff6d91096b3d5bd74975908d27b3825e
+=======
+
+For more information on Git, see the
+[official Git documentation](https://git-scm.com/).
+>>>>>>> d2ceb629d76b3af4c24cea83441d652a141189af
